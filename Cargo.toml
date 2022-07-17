@@ -1,0 +1,19 @@
+[package]
+name = "serde-vpack"
+version = "0.1.0"
+authors = ["Aditya Mukhopadhyay <webmaster@adityamukho.com>"]
+license = "Apache-2.0"
+description = "A Serializer and Deserializer for Serde that uses ArangoDB's Velocypack."
+repository = "https://github.com/adityamukho/serde-vpack"
+documentation = "https://serde.rs/data-format.html"
+keywords = ["serde"]
+categories = ["encoding"]
+edition = "2021"
+rust-version = "1.56"
+publish = false
+
+[dependencies]
+serde = "1.0"
+
+[dev-dependencies]
+serde_derive = "1.0"
