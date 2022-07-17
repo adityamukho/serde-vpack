@@ -1,4 +1,4 @@
-**[WIP]** A Serializer and Deserializer for Serde that uses ArangoDB's [Velocypack](https://github.com/arangodb/velocypack).
+**[WIP]** A Serializer and Deserializer for [Serde](https://github.com/serde-rs/serde) that uses ArangoDB's [Velocypack](https://github.com/arangodb/velocypack).
 
 # License
 
